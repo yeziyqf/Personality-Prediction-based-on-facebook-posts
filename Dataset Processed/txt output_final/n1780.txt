@@ -1,0 +1,1 @@
+Raid Data Recovered completely from swapped pair that was unrecognized by nas after NAS flipped out and wiped itself 100 times.  400Gb data now safe.

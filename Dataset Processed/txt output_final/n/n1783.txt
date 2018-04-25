@@ -1,0 +1,1 @@
+anyone ever rebuild a raid array before and have tips? I've got two drives of a raid 1+0 (one from each pair i think), that need to have data recovered. Trying different recovery software at the moment (ufs recovery atm), but happy to have any advice.

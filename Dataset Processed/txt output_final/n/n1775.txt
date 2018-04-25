@@ -1,0 +1,1 @@
+needs to get a nifty book, a language version and a development environment that actually work together. I've got this Book on Python for Hacking//reverse engineering, but it's for 2.5, which is a not compatible old standard(current is 3+) and for an older version of Eclipse, which has also had a massive change in the current version and this book was published in 2009.
